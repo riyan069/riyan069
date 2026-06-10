@@ -14,7 +14,7 @@
 - 💻 I enjoy building **web applications, management systems, and useful student platforms**
 - 🧠 I’m interested in **Frontend, Backend, Database, and Problem Solving**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django, MySQL, PostgreSQL**
-- 📫 Reach me at **riyangmshahariyar@gmail.com**
+- 📫 Reach me at **gmshahariyarriyan69@gmail.com**
 
 ---
 
