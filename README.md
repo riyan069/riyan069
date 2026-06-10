@@ -10,7 +10,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **DIU Notes** and **Supershop Management System**
 - 🌱 I’m learning and improving my **Full-Stack Development** skills
 - 💻 I enjoy building **web applications, management systems, and useful student platforms**
 - 🧠 I’m interested in **Frontend, Backend, Database, and Problem Solving**
