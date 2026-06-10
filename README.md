@@ -1,16 +1,102 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm G.M. Shahariyar Riyan</h1>
 
-<!--
-**riyan069/riyan069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riyan069&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **DIU Notes** and **Supershop Management System**
+- 🌱 I’m learning and improving my **Full-Stack Development** skills
+- 💻 I enjoy building **web applications, management systems, and useful student platforms**
+- 🧠 I’m interested in **Frontend, Backend, Database, and Problem Solving**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django, MySQL, PostgreSQL**
+- 📫 Reach me at **riyangmshahariyar@gmail.com**
+
+---
+
+### 🚀 Tech Stack
+
+#### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,php" />
+</p>
+
+#### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,figma" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 DIU Notes</h3>
+      <p align="center">
+        A helpful notes and academic resource platform for DIU students.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 Supershop Management System</h3>
+      <p align="center">
+        A management system for handling products, sales, customers, and shop operations.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyan069&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan069&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyan069&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/riyan069" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Always learning, building, and improving ✨</h3>
