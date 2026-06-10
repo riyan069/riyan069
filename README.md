@@ -42,26 +42,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 DIU Notes</h3>
-      <p align="center">
-        A helpful notes and academic resource platform for DIU students.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛒 Supershop Management System</h3>
-      <p align="center">
-        A management system for handling products, sales, customers, and shop operations.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📊 GitHub Stats
 
@@ -73,9 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan069&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyan069&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
