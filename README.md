@@ -72,9 +72,6 @@
   <a href="https://ubuntu.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  </a>
 </p>
 
 ---
