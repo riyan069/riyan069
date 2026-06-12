@@ -13,7 +13,7 @@
 - 🌱 I’m learning and improving my **Full-Stack Development** skills
 - 💻 I enjoy building **web applications, management systems, and useful student platforms**
 - 🧠 I’m interested in **Frontend, Backend, Database, and Problem Solving**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django, MySQL, PostgreSQL**
+- 💬 Ask me about **HTML, CSS, Java, Spring Boot, Swing, JavaScript, React, MySQL, PostgreSQL**
 - 📫 Reach me at **gmshahariyarriyan69@gmail.com**
 
 ---
